@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+requirements.txt
+
+# Project specific
+output/
+*_test.json
+*_data.json
+*.html
+
+# OS
+.DS_Store
