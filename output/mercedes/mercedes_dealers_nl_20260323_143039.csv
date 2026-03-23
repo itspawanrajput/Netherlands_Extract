@@ -1,0 +1,77 @@
+dealer_id,brand,company_id,name,legal_name,latitude,longitude,full_address,address_line_1,address_line_2,postal_code,city,country_code,region,province,phone,email,website,products,products_count,affiliate,main_outlet
+GS0032412,Mercedes,GC0001223,Vestiging Amsterdam West,Hedin Automotive 1M B.V.,52.404217,4.835866,"Radarweg 8, 1042 AA Amsterdam",Radarweg 8,,1042 AA,Amsterdam,NL,Noord-Holland,Amsterdam,,,,,0,False,False
+GS0001978,Mercedes,GC0001223,Vestiging Amsterdam Zuid-Oost,Hedin Automotive 1M B.V.,52.303143,4.936495,"Klokkenbergweg 3, 1101 AK Amsterdam",Klokkenbergweg 3,,1101 AK,Amsterdam,NL,Noord-Holland,Amsterdam,,,,,0,False,False
+GS0092273,Mercedes,GC0079669,Auto Kökcü B.V.,Auto Kökcü B.V.,52.392409,4.783684,"Poortland 262, 1046 BD Amsterdam",Poortland 262,,1046 BD,Amsterdam,NL,Noord-Holland,Amsterdam,,,,,0,False,False
+GS0031444,Mercedes,GC0001213,Vestiging Zaandam,Gomes Noord-Holland B.V.,52.427889,4.796111,"Rijder 3, 1507 DP Zaandam",Rijder 3,,1507 DP,Zaandam,NL,,Noord-Holland,,,,,0,False,False
+GS0001944,Mercedes,GC0001223,Vestiging Amstelveen,Hedin Automotive 1M B.V.,52.283721,4.837809,"Spinnerij 11, 1185 ZN Amstelveen",Spinnerij 11,,1185 ZN,Amstelveen,NL,Noord-Holland,Amstelveen,,,,,0,False,False
+GS00104602,Mercedes,GC0001213,Vestiging Aalsmeer ,Gomes Noord-Holland B.V.,52.270868,4.784191,"Zwitserlandstraat 4, 1432 DC Aalsmeer",Zwitserlandstraat 4,,1432 DC,Aalsmeer,NL,Noord-Holland,Aalsmeer,,,,,0,False,False
+GS00104603,Mercedes,GC0001213,Vestiging Haarlem,Gomes Noord-Holland B.V.,52.384731,4.660763,"Fustweg 2, 2031 CJ Haarlem",Fustweg 2,,2031 CJ,Haarlem,NL,Noord-Holland,Haarlem,,,,,0,False,False
+GS0031439,Mercedes,GC0001213,Vestiging Purmerend,Gomes Noord-Holland B.V.,52.515431,5.002158,"Voltastraat 15, 1446 VA Purmerend",Voltastraat 15,,1446 VA,Purmerend,NL,,Noord-Holland,,,,,0,False,False
+GS0009289,Mercedes,GC0001223,Vestiging Hilversum,Hedin Automotive 1M B.V.,52.218712,5.148757,"Zeverijnstraat 16, 1216 GK Hilversum",Zeverijnstraat 16,,1216 GK,Hilversum,NL,Noord-Holland,Hilversum,,,,,0,False,False
+GS0001971,Mercedes,GC0001223,Vestiging Almere,Hedin Automotive 1M B.V.,52.35927,5.25953,"De Huchtstraat 10, 1327 EE Almere",De Huchtstraat 10,,1327 EE,Almere,NL,Flevoland,Almere,,,,,0,False,False
+GS0028777,Mercedes,GC0001192,Vestiging Roelofarendsveen,AGAM B.V.,52.206047,4.622847,"Pasteurweg 1, 2371 DW Roelofarendsveen",Pasteurweg 1,,2371 DW,Roelofarendsveen,NL,,Zuid-Holland,,,,,0,False,False
+GS00112570,Mercedes,GC0001213,Vestiging Alkmaar Certified,Gomes Noord-Holland B.V.,52.610986,4.749721,"Koraalstraat  4, 1812 RK Alkmaar",Koraalstraat  4,,1812 RK,Alkmaar,NL,Noord-Holland,Alkmaar,,,,,0,False,False
+GS0001974,Mercedes,GC0001213,Vestiging Alkmaar,Gomes Noord-Holland B.V.,52.642494,4.779139,"Robbenkoog 2, 1822 BB Alkmaar",Robbenkoog 2,,1822 BB,Alkmaar,NL,,Noord-Holland,,,,,0,False,False
+GS0001975,Mercedes,GC0001213,Vestiging Hoorn,Gomes Noord-Holland B.V.,52.644808,5.096589,"Protonweg 2, 1627 LD Hoorn",Protonweg 2,,1627 LD,Hoorn,NL,,Noord-Holland,,,,,0,False,False
+GS0028775,Mercedes,GC0001192,Vestiging Leiden,AGAM B.V.,52.162975,4.474744,"Vondellaan 45, 2332 AA Leiden",Vondellaan 45,,2332 AA,Leiden,NL,,Zuid-Holland,,,,,0,False,False
+GS0002013,Mercedes,GC0001223,Vestiging Nieuwegein,Hedin Automotive 1M B.V.,52.056989,5.111689,"Ringwade 2, 3439 LM Nieuwegein",Ringwade 2,,3439 LM,Nieuwegein,NL,,Utrecht,,,,,0,False,False
+GS0031441,Mercedes,GC0001213,Vestiging Wognum,Gomes Noord-Holland B.V.,52.693931,5.034667,"Tender 3, 1687 JB Wognum",Tender 3,,1687 JB,Wognum,NL,,Noord-Holland,,,,,0,False,False
+GS0001951,Mercedes,GC0001223,Vestiging Amersfoort,Hedin Automotive 1M B.V.,52.196956,5.397033,"Ruimtevaart 30, 3824 MX Amersfoort",Ruimtevaart 30,,3824 MX,Amersfoort,NL,,Amersfoort,,,,,0,False,False
+GS0031443,Mercedes,GC0001213,Vestiging Warmenhuizen,Gomes Noord-Holland B.V.,52.718306,4.734117,"Bregweid 18, 1749 DJ Warmenhuizen",Bregweid 18,,1749 DJ,Warmenhuizen,NL,,Noord-Holland,,,,,0,False,False
+GS0061762,Mercedes,GC0042627,TruckStore,Daimler Truck Nederland B.V.,52.233706,5.470525,"Galvanistraat  9C, 3861 NJ  NIJKERK",Galvanistraat  9C,,3861 NJ ,NIJKERK ,NL,Gelderland,Nijkerk,,,,,0,True,False
+GS0032759,Mercedes,GC0001203,Van Mossel Gouda,Van Mossel MB B.V.,52.021536,4.658053,"Grote Esch 50, 2841 MJ Moordrecht",Grote Esch 50,,2841 MJ,Moordrecht,NL,,Zuid-Holland,,,,,0,False,False
+GS0062277,Mercedes,GC0047406,Vestiging Moordrecht,Van Mossel MB Vans & Trucks B.V.,52.021536,4.658053,"Grote Esch 46, 2841 MJ Moordrecht",Grote Esch 46,,2841 MJ,Moordrecht,NL,,Zuid-Holland,,,,,0,False,False
+GS0001966,Mercedes,GC0001223,Vestiging Nijkerk,Hedin Automotive 1M B.V.,52.234964,5.483547,"Ambachtsstraat 21, 3861 RH Nijkerk",Ambachtsstraat 21,,3861 RH,Nijkerk,NL,,Gelderland,,,,,0,False,False
+GS0001906,Mercedes,GC0001192,Vestiging Den Haag,AGAM B.V.,52.067822,4.387686,"Donau 42, 2491 BA s-Gravenhage",Donau 42,,2491 BA,s-Gravenhage,NL,,Zuid-Holland,,,,,0,False,False
+GS0001985,Mercedes,GC0001220,Vestiging Harderwijk,Wensink Automotive B.V.,52.353753,5.63325,"Stephensonstraat 5, 3846 AK Harderwijk",Stephensonstraat 5,,3846 AK,Harderwijk,NL,,Gelderland,,,,,0,False,False
+GS0058814,Mercedes,GC0047406,Vestiging Bergschenhoek,Van Mossel MB Vans & Trucks B.V.,51.974306,4.4968,"Bergweg-Zuid 102, 2661 CV Bergschenhoek",Bergweg-Zuid 102,,2661 CV,Bergschenhoek,NL,,Zuid-Holland,,,,,0,False,False
+GS0032825,Mercedes,GC0001203,Van Mossel Rotterdam Autostrada,Van Mossel MB B.V.,51.909081,4.537831,"Autolettestraat 4, 3063 NP Rotterdam",Autolettestraat 4,,3063 NP,Rotterdam,NL,,Zuid-Holland,,,,,0,False,False
+GS0001953,Mercedes,GC0001223,Vestiging Veenendaal,Hedin Automotive 1M B.V.,52.038538,5.572261,"Galileistraat 15, 3902 HR Veenendaal",Galileistraat 15,,3902 HR,Veenendaal,NL,Utrecht,Veenendaal,,,,,0,False,False
+GS0001943,Mercedes,GC0001203,Van Mossel Rotterdam Spaanse Polder,Van Mossel MB B.V.,51.933565,4.412203,"Schuttevaerweg 20, 3044 BB Rotterdam",Schuttevaerweg 20,,3044 BB,Rotterdam,NL,Zuid-Holland,Rotterdam,,,,,0,False,False
+GS0062276,Mercedes,GC0047406,Vestiging Rotterdam Spaanse Polder,Van Mossel MB Vans & Trucks B.V.,51.933333,4.411111,"Schuttevaerweg 18, 3044 BB Rotterdam",Schuttevaerweg 18,,3044 BB,Rotterdam,NL,,Zuid-Holland,,,,,0,False,False
+GS0047809,Mercedes,GC0037249,Vestiging Gorinchem,Louwman MB B.V.,51.831981,4.941281,"Avelingen West 29, 4202 MS Gorinchem",Avelingen West 29,,4202 MS,Gorinchem,NL,,Zuid-Holland,,,,,0,False,False
+GS0001938,Mercedes,GC0001192,Vestiging Naaldwijk,AGAM B.V.,52.00304,4.213691,"Klompenmakerstraat 50, 2672 GA Naaldwijk",Klompenmakerstraat 50,,2672 GA,Naaldwijk,NL,,Zuid-Holland,,,,,0,False,False
+GS0047808,Mercedes,GC0037249,Vestiging Tiel,Louwman MB B.V.,51.905878,5.437042,"Kellenseweg 28, 4004 JD Tiel",Kellenseweg 28,,4004 JD,Tiel,NL,,Gelderland,,,,,0,False,False
+GS0032823,Mercedes,GC0001203,Van Mossel Rotterdam Charlois,Van Mossel MB B.V.,51.863154,4.474137,"Driemanssteeweg 690a, 3084 CB Rotterdam",Driemanssteeweg 690a,,3084 CB,Rotterdam,NL,Zuid-Holland,Rotterdam,,,,,0,False,False
+GS00110757,Mercedes,GC0047406,Vestiging Rotterdam-Charlois,Van Mossel MB Vans & Trucks B.V.,51.8667,4.453508,"Driemanssteeweg 20, 3084 CB Rotterdam",Driemanssteeweg 20,,3084 CB,Rotterdam,NL,Zuid-Holland,Rotterdam,,,,,0,False,False
+GS0001909,Mercedes,GC0001192,Vestiging Maasdijk,AGAM B.V.,51.947597,4.230939,"Transportweg 59, 2676 LM Maasdijk",Transportweg 59,,2676 LM,Maasdijk,NL,,Zuid-Holland,,,,,0,False,False
+GS0001988,Mercedes,GC0001220,Vestiging Emmeloord,Wensink Automotive B.V.,52.684722,5.743056,"Platinaweg 1, 8304 BL Emmeloord",Platinaweg 1,,8304 BL,Emmeloord,NL,,Flevoland,,,,,0,False,False
+GS00112293,Mercedes,GC0001203,Vestiging Dordrecht,Van Mossel MB B.V.,51.78643,4.647701,"Mijlweg 81, 3316 BE Dordrecht",Mijlweg 81,,3316 BE,Dordrecht,NL,Zuid-Holland,Dordrecht,,,,,0,False,False
+GS00112294,Mercedes,GC0001203,Vestiging Oud-Beijerland,Van Mossel MB B.V.,51.826686,4.438351,"J. v.d. Heijdenstraat 29, 3261 LE Oud-Beijerland",J. v.d. Heijdenstraat 29,,3261 LE,Oud-Beijerland,NL,Zuid-Holland,Hoeksche Waard,,,,,0,False,False
+GS00110761,Mercedes,GC0047406,Vestiging Dordrecht,Van Mossel MB Vans & Trucks B.V.,51.766395,4.639417,"Heliotroopring 40, 3316 KG Dordrecht",Heliotroopring 40,,3316 KG,Dordrecht,NL,Zuid-Holland,Dordrecht,,,,,0,False,False
+GS0001984,Mercedes,GC0001220,Vestiging Apeldoorn,Wensink Automotive B.V.,52.180811,5.980069,"Sint Eustatius 2-4, 7333 NX Apeldoorn",Sint Eustatius 2-4,,7333 NX,Apeldoorn,NL,,Gelderland,,,,,0,False,False
+GS0047807,Mercedes,GC0037249,Vestiging Den Bosch,Louwman MB B.V.,51.701742,5.295667,"Zandzuigerstraat 13, 5222 AH Den Bosch",Zandzuigerstraat 13,,5222 AH,Den Bosch,NL,,Noord-Brabant,,,,,0,False,False
+GS00112292,Mercedes,GC0001203,Vestiging Hellevoetsluis,Van Mossel MB B.V.,51.834909,4.132532,"Rijksstraatweg 38, 3223 KA Hellevoetsluis",Rijksstraatweg 38,,3223 KA,Hellevoetsluis,NL,,Zuid-Holland,,,,,0,False,False
+GS0002001,Mercedes,GC0001220,Vestiging Arnhem,Wensink Automotive B.V.,51.976508,5.961144,"Ringoven 5-9, 6826 TP Arnhem",Ringoven 5-9,,6826 TP,Arnhem,NL,,Gelderland,,,,,0,False,False
+GS0001994,Mercedes,GC0001220,Vestiging Nijmegen,Wensink Automotive B.V.,51.842369,5.804225,"Hogelandseweg 98, 6545 AB Nijmegen",Hogelandseweg 98,,6545 AB,Nijmegen,NL,,Gelderland,,,,,0,False,False
+GS00112939,Mercedes,GC0037249,vestiging Breda Vans ,Louwman MB B.V.,51.606858,4.75585,"Mijkenbroek  52-56, 4824 AC Breda",Mijkenbroek  52-56,,4824 AC,Breda,NL,Noord-Brabant,Breda,,,,,0,False,False
+GS0002003,Mercedes,GC0001220,Vestiging Zwolle,Wensink Automotive B.V.,52.537094,6.164508,"Lippestraat 2, 8028 PS Zwolle",Lippestraat 2,,8028 PS,Zwolle,NL,,Overijssel,,,,,0,False,False
+GS0047806,Mercedes,GC0037249,Vestiging Tilburg,Louwman MB B.V.,51.586875,5.066453,"Kraaivenstraat 12, 5048 AB Tilburg",Kraaivenstraat 12,,5048 AB,Tilburg,NL,,Noord-Brabant,,,,,0,False,False
+GS0047132,Mercedes,GC0037249,Vestiging Breda,Louwman MB B.V.,51.583106,4.745686,"Ettensebaan 34, 4814 NN Breda",Ettensebaan 34,,4814 NN,Breda,NL,,Noord-Brabant,,,,,0,False,False
+GS0001986,Mercedes,GC0001220,Vestiging Deventer,Wensink Automotive B.V.,52.244031,6.193008,"Dortmundstraat 8, 7418 BH Deventer",Dortmundstraat 8,,7418 BH,Deventer,NL,,Overijssel,,,,,0,False,False
+GS0012238,Mercedes,GC0009947,Vestiging Uden,Autoservice Van den Akker B.V.,51.67648,5.643193,"Belgenlaan 1, 5406 XN Uden",Belgenlaan 1,,5406 XN,Uden,NL,Noord-Brabant,Uden,,,,,0,False,False
+GS0047803,Mercedes,GC0037249,Vestiging Veghel,Louwman MB B.V.,51.626667,5.507778,"De Amert 708, 5462 GH Veghel",De Amert 708,,5462 GH,Veghel,NL,,Noord-Brabant,,,,,0,False,False
+GS0022504,Mercedes,GC0017777,Van Driel Autobedrijf B.V.,Van Driel Autobedrijf B.V.,51.576642,5.361156,"Boxtelseweg 48, 5298 VC Liempde",Boxtelseweg 48,,5298 VC,Liempde,NL,,Noord-Brabant,,,,,0,False,False
+GS0001999,Mercedes,GC0001219,Vestiging Veghel,ASV Automobielbedrijven B.V.,51.615311,5.554875,"Heuvelplein 3, 5463 XG Veghel",Heuvelplein 3,,5463 XG,Veghel,NL,,Noord-Brabant,,,,,0,False,False
+GS00110369,Mercedes,GC0037249,Vestiging Roosendaal,Louwman MB B.V.,51.542095,4.495101,"Bredaseweg  225-227, 4705 RN Roosendaal",Bredaseweg  225-227,,4705 RN,Roosendaal,NL,Noord-Brabant,Roosendaal,,,,,0,False,False
+GS0001982,Mercedes,GC0001220,Vestiging Heerenveen,Wensink Automotive B.V.,52.966908,5.935464,"Venus 1, 8448 CE Heerenveen",Venus 1,,8448 CE,Heerenveen,NL,,Friesland,,,,,0,False,False
+GS0038139,Mercedes,GC0001198,Vestiging Eindhoven,Smeets Autogroep B.V.,51.484261,5.425861,"Steenoven 17, 5626 DK Eindhoven",Steenoven 17,,5626 DK,Eindhoven,NL,,Noord-Brabant,,,,,0,False,False
+GS0001996,Mercedes,GC0001220,Vestiging Doetinchem,Wensink Automotive B.V.,51.949578,6.304378,"Havenstraat 63, 7005 AG Doetinchem",Havenstraat 63,,7005 AG,Doetinchem,NL,,Gelderland,,,,,0,False,False
+GS00111939,Mercedes,GC00100463,vestiging Heijen,Truck & Trailer Groep B.V.,51.663182,5.993429,"De Grens 2, 6598 DL Heijen",De Grens 2,,6598 DL,Heijen,NL,,Limburg,,,,,0,False,False
+GS0001902,Mercedes,GC0001191,Vestiging Rijssen,Baan Twente B.V.,52.326003,6.499261,"Provincialeweg Zuna 2, 7466 PK Zuna (Rijssen)",Provincialeweg Zuna 2,,7466 PK,Zuna (Rijssen),NL,,Overijssel,,,,,0,False,False
+GS00113523,Mercedes,GC0001213,vestiging Eindhoven,Gomes Noord-Holland B.V.,51.431718,5.504683,"Hugo van der Goeslaan  49, 5643 TX Eindhoven",Hugo van der Goeslaan  49,,5643 TX,Eindhoven,NL,Noord-Brabant,Eindhoven,,,,,0,False,False
+GS0001980,Mercedes,GC0001220,Vestiging Leeuwarden,Wensink Automotive B.V.,53.19659,5.84879,"Icarusweg 2, 8938 AX Leeuwarden",Icarusweg 2,,8938 AX,Leeuwarden,NL,Friesland,Leeuwarden,,,,,0,False,False
+GS0001983,Mercedes,GC0001220,Vestiging Drachten,Wensink Automotive B.V.,53.120523,6.076118,"De Kletten 20, 9206 BA Drachten",De Kletten 20,,9206 BA,Drachten,NL,,Friesland,,,,,0,False,False
+GS0002007,Mercedes,GC0001220,Vestiging Hoogeveen,Wensink Automotive B.V.,52.713317,6.517556,"Buitenvaart 3003, 7905 TA Hoogeveen",Buitenvaart 3003,,7905 TA,Hoogeveen,NL,,Drenthe,,,,,0,False,False
+GS00110368,Mercedes,GC0037249,Vestiging Goes,Louwman MB B.V.,51.493015,3.8786,"Albert Plesmanweg 2, 4462 GC Goes",Albert Plesmanweg 2,,4462 GC,Goes,NL,Zeeland,Goes,,,,,0,False,False
+GS0001901,Mercedes,GC0001191,Vestiging Hengelo,Baan Twente B.V.,52.24281,6.761389,"Goudstraat 20, 7554 ND Hengelo",Goudstraat 20,,7554 ND,Hengelo,NL,Overijssel,Hengelo,,,,,0,False,False
+GS0002005,Mercedes,GC0001220,Vestiging Assen,Wensink Automotive B.V.,53.026245,6.577837,"Duitslandlaan 2, 9403 DK Assen",Duitslandlaan 2,,9403 DK,Assen,NL,Drenthe,Assen,,,,,0,False,False
+GS0001904,Mercedes,GC0001191,Vestiging Oldenzaal,Baan Twente B.V.,52.298119,6.928456,"Schelmaatstraat 10, 7575 BD Oldenzaal",Schelmaatstraat 10,,7575 BD,Oldenzaal,NL,,Overijssel,,,,,0,False,False
+GS00110370,Mercedes,GC0037249,Vestiging Terneuzen,Louwman MB B.V.,51.302904,3.846669,"Productiestraat 4, 4538 BX Terneuzen",Productiestraat 4,,4538 BX,Terneuzen,NL,Zeeland,Terneuzen,,,,,0,False,False
+GS0038138,Mercedes,GC0001198,Vestiging Venlo,Smeets Autogroep B.V.,51.377903,6.15825,"Venrayseweg 30, 5928 NZ Venlo",Venrayseweg 30,,5928 NZ,Venlo,NL,,Limburg,,,,,0,False,False
+GS0002006,Mercedes,GC0001220,Vestiging Emmen,Wensink Automotive B.V.,52.770044,6.928378,"Albatrosstraat 8, 7821 AM Emmen",Albatrosstraat 8,,7821 AM,Emmen,NL,,Drenthe,,,,,0,False,False
+GS0014443,Mercedes,GC0001198,Vestiging Ittervoort,Smeets Autogroep B.V.,51.177228,5.838864,"Australiestraat 4, 6014 DC Ittervoort",Australiestraat 4,,6014 DC,Ittervoort,NL,,Limburg,,,,,0,False,False
+GS0001936,Mercedes,GC0001220,Vestiging Groningen,Wensink Automotive B.V.,53.209743,6.600176,"Uppsalaweg 3, 9723 AH Groningen",Uppsalaweg 3,,9723 AH,Groningen,NL,Groningen,Groningen,,,,,0,False,False
+GS0053463,Mercedes,GC0042565,Gomes Echt B.V.,Gomes Echt B.V.,51.124444,5.890194,"Fahrenheitweg 20, 6101 WR Echt-Susteren",Fahrenheitweg 20,,6101 WR,Echt-Susteren,NL,,Limburg,,,,,0,False,False
+GS00111940,Mercedes,GC00100463,vestiging Winschoten,Truck & Trailer Groep B.V.,53.149611,7.050848,"Papierbaan 1, 9672 BG Winschoten",Papierbaan 1,,9672 BG,Winschoten,NL,,Groningen,,,,,0,False,False
+GS0001922,Mercedes,GC0001198,Vestiging Heerlen,Smeets Autogroep B.V.,50.902122,5.936003,"Handelsstraat 2, 6433 KB Heerlen",Handelsstraat 2,,6433 KB,Heerlen,NL,,Limburg,,,,,0,False,False

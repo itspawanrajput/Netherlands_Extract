@@ -1,0 +1,11 @@
+dealer_id,brand,name,latitude,longitude,full_address,address_line_1,address_line_2,postal_code,city,country_code,phone,email,website,products,products_count
+0122940,Alfa Romeo,JANSSEN VAN KOUWEN AUTOMOTIVE B.V.,52.298587,4.94442,"Snijdersbergweg 99-101, 1105 AN Amsterdam",Snijdersbergweg 99-101,,1105 AN,Amsterdam,NL,0850530030,info@jvk.nl,www.alfaromeo.nl?locationCode=00001241&bannerid=DL&source=WCOR,Sales,1
+0122276,Alfa Romeo,NEFKENS H&H UTRECHT DE MEERN,52.07708,5.047869,"Meijewetering 19, 3454 PE Utrecht",Meijewetering 19,,3454 PE,Utrecht,NL,0306582700,info@nefkens.nl,www.alfaromeo.nl?locationCode=00001850&bannerid=DL&source=WCOR,Sales,1
+0122425,Alfa Romeo,AUTOCENTRUM VAN VLIET,52.025339,4.656492,"Coenecoop 143, 2741 PJ Waddinxveen",Coenecoop 143,,2741 PJ,Waddinxveen,NL,0182205025,info@autowinkel.nl,www.alfaromeo.nl?locationCode=00001208&bannerid=DL&source=WCOR,Sales,1
+0122652,Alfa Romeo,WITTEBRUG,52.05631,4.39444,"Donau 120, 2491 BC DEN HAAG",Donau 120,,2491 BC,DEN HAAG,NL,070 756 8700,info@wittebrug.nl,www.alfaromeo.nl?locationCode=00000232&bannerid=DL&source=WCOR,Sales,1
+0122038,Alfa Romeo,ZEEUW AUTOMOTIVE,51.828458,4.622498,3335 LT, ,,3335 LT, ,NL,0786812700,pieterzeeuw@zeeuw.nl,www.zeeuw-fcagroup.nl/dealer/alfa-romeo?locationCode=00000472&bannerid=DL&source=WCOR,Sales,1
+0122411,Alfa Romeo,BROEKHUIS,52.4948,6.12357,"Zuiderbreedte 36, 8013 NG Harderwijk",Zuiderbreedte 36,,8013 NG,Harderwijk,NL,0382050300,verkoopdesk@broekhuis.nl,www.alfaromeo.nl?locationCode=00001106&bannerid=DL&source=WCOR,Sales,1
+0122551,Alfa Romeo,WASSINK AUTOGROEP VELP,51.982451,5.984757,6883 DB, ,,6883 DB, ,NL, ,info@wassinkautogroep.nl,www.alfaromeo.nl?locationCode=00001804&bannerid=DL&source=WCOR,Sales,1
+0122930,Alfa Romeo,VAN MOSSEL BREDA,51.583044,4.825762,"Minervum 7001-c, 4817 ZL Breda",Minervum 7001-c,,4817 ZL,Breda,NL,0765222533,info.fjam@vanmossel.nl,www.alfaromeo.nl?locationCode=00001219&bannerid=DL&source=WCOR,Sales,1
+0122870,Alfa Romeo,HEKKERT,50.99552,5.83938,"Bergerweg 77, 6135 KD Sittard",Bergerweg 77,,6135 KD,Sittard,NL,31464206666,info@hekkertautogroep.nl,www.alfaromeo.nl?locationCode=00001716&bannerid=DL&source=WCOR,Sales,1
+0122960,Alfa Romeo,HEDIN AUTOMOTIVE,53.222269,6.611252,9723 HG, ,,9723 HG, ,NL,+31505885600,cwpl.opel@hedinautomotive.nl,www.alfaromeo.nl?locationCode=00001579&bannerid=DL&source=WCOR,Sales,1

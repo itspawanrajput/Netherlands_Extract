@@ -1,0 +1,14 @@
+dealer_id,brand,name,latitude,longitude,full_address,address_line_1,address_line_2,postal_code,city,country_code,phone,email,website,products,products_count
+7041282,Tesla,Arnhem-Duiven,51.9650564,6.0037543,"32 Geograaf, 6921 EW Duiven",32 Geograaf,,6921 EW,Duiven,NL,+31 26 311 1016,,https://www.tesla.com/findus/location/store/duiven,Sales Store,1
+7041292,Tesla,Tilburg Store and Service Center,51.605866,5.0032479,"7 Atlasstraat, 5047 RG Tilburg",7 Atlasstraat,,5047 RG,Tilburg,NL,+31 13 799 9400,,https://www.tesla.com/findus/location/store/Tilburg-Atlasstraat,Sales Store,1
+7041291,Tesla,Amsterdam-Zuid-Oost,52.31092,4.936197,"122 Burgemeester Stramanweg, 1101 EN Amsterdam",122 Burgemeester Stramanweg,,1101 EN,Amsterdam,NL,(20) 365 00 08,,https://www.tesla.com/findus/location/store/amsterdamzuidoost,Sales Store,1
+7041286,Tesla,Rotterdam-Driemanssteeweg,51.864884,4.457034,"70 Driemanssteeweg, 3084 CB Rotterdam",70 Driemanssteeweg,,3084 CB,Rotterdam,NL,+31 10 808 0552,,https://www.tesla.com/findus/location/store/rotterdamstore,Sales Store,1
+7041284,Tesla,Groningen-Rostockweg,53.2230603,6.6116002,"9 Rostockweg, 9723 HG Groningen",9 Rostockweg,,9723 HG,Groningen,NL,+31 50 799 9800,,https://www.tesla.com/findus/location/store/groningenrostockweg,Sales Store,1
+7041293,Tesla,Eindhoven-Boschdijk,51.485572,5.429693,"1111 Boschdijk, 5626 AG Eindhoven",1111 Boschdijk,,5626 AG,Eindhoven,NL,+31 49 946 2998,,https://www.tesla.com/findus/location/store/eindhoven,Sales Store,1
+7041285,Tesla,Zwolle,52.4722801,6.0001723,"46 Rondweg, 8091 XA Wezep",46 Rondweg,,8091 XA,Wezep,NL,+31 38 369 0144,,https://www.tesla.com/findus/location/store/zwolle,Sales Store,1
+7041287,Tesla,Purmerend,52.5135272,5.0087553,"84 Component, 1446 WP Purmerend",84 Component,,1446 WP,Purmerend,NL,+31 29 970 5543,,https://www.tesla.com/findus/location/store/purmerend,Sales Store,1
+7041289,Tesla,Utrecht - Eendrachtlaan,52.0623042,5.1102642,"300 Eendrachtlaan, 3526 LB Utrecht",300 Eendrachtlaan,,3526 LB,Utrecht,NL,+31 30 369 1023,,https://www.tesla.com/findus/location/store/utrecht-eendrachtlaan,Sales Store,1
+7041290,Tesla,Den Haag-Waalhaven,52.0425871,4.3618366,"417 Laan van Waalhaven, 2497GM Den Haag",417 Laan van Waalhaven,,2497GM,Den Haag,NL,+31 70 301 0022,,https://www.tesla.com/findus/location/store/denhaag1,Sales Store,1
+7041288,Tesla,Roermond-Mijnheerkensweg,51.20005,5.9927414,"1 Mijnheerkensweg, 6041 TA Roermond",1 Mijnheerkensweg,,6041 TA,Roermond,NL,+31 47 579 6559,,https://www.tesla.com/findus/location/store/roermondmijnheerkensweg,Sales Store,1
+7041283,Tesla,Hengelo-Wegtersweg,52.2734165,6.7818413,"8 Wegtersweg, 7556 BR Hengelo",8 Wegtersweg,,7556 BR,Hengelo,NL,+31 74 369 0578,,https://www.tesla.com/findus/location/store/Hengelowegtersweg,Sales Store,1
+7041294,Tesla,Goes,51.4857378,3.8743373,"37 Amundsenweg, 4462 GP Goes",37 Amundsenweg,,4462 GP,Goes,NL,+31 113 794 558,,https://www.tesla.com/findus/location/store/415466,Sales Store,1

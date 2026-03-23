@@ -1,0 +1,59 @@
+dealer_id,brand,name,latitude,longitude,full_address,address_line_1,address_line_2,postal_code,city,country_code,phone,email,website,products,products_count
+5248,Mitsubishi,Stam Amersfoort,52.19747,5.3962,"Gemini 1, 3824 MH",Gemini 1,,3824 MH,,NL,033-4536690,,https://stam.mitsubishi-motors.nl/,Sales/Service,1
+4994,Mitsubishi,Herwers Hengelo (Gld),52.041468,6.304445,"Kruisbergseweg 8, 7255 AE",Kruisbergseweg 8,,7255 AE,,NL,0575-462244,hengelo@herwers.nl,https://www.herwers.nl/mitsubishi-motors/,Sales/Service,1
+130,Mitsubishi,Auto Winters Valkenswaard B.V.,51.350556,5.458889,"Dragonder 18, 5554 GM",Dragonder 18,,5554 GM,,NL,040-2045678,info@autowinters.nl,https://winters.mitsubishi-motors.nl/,Sales/Service,1
+4995,Mitsubishi,Zeeuw & Zeeuw Rotterdam,51.869867,4.549732,"Kamerlingh Onnesweg 32, 2991 XL",Kamerlingh Onnesweg 32,,2991 XL,,NL,010-2923434,info.mitsubishi-rotterdam@zeeuwenzeeuw.nl,https://zeeuwenzeeuw.mitsubishi-motors.nl/,Sales/Service,1
+132,Mitsubishi,Polderman B.V.,52.265556,4.558333,"Heereweg 50, 2161 AH",Heereweg 50,,2161 AH,,NL,0252-418850,info@polderman-lisse.nl,https://polderman.mitsubishi-motors.nl/,Sales/Service,1
+137,Mitsubishi,Autobedrijf Gelissen Sittard B.V.,50.995556,5.840833,"Bergerweg 75, 6135 KD",Bergerweg 75,,6135 KD,,NL,046-4200695,info@autogelissen.nl,https://autogelissen.mitsubishi-motors.nl/,Sales/Service,1
+138,Mitsubishi,Autobedrijf Jubbega B.V.,52.695,6.204722,"Blankenstein 520, 7943 PA",Blankenstein 520,,7943 PA,,NL,0522-242525,info@jubbega.nl,https://meppel.mitsubishi-motors.nl/,Sales/Service,1
+141,Mitsubishi,Autobedrijf Jan Snel B.V.,51.801699,4.563521,"Sportlaan 1, 3297 TG",Sportlaan 1,,3297 TG,,NL,078-6761177,info@jansnelputtershoek.nl,https://jan-snel.mitsubishi-motors.nl/,Sales/Service,1
+144,Mitsubishi,Autobedrijf Koster,52.226944,5.490556,"Vetkamp 94, 3861 JS",Vetkamp 94,,3861 JS,,NL,033-2460589,info@kosternijkerk.nl,https://kosternijkerk.mitsubishi-motors.nl/,Sales/Service,1
+5266,Mitsubishi,Mengelers Venlo,51.37758,6.162688,"Rudolf Dieselweg 28, 5928 RA",Rudolf Dieselweg 28,,5928 RA,,NL,077-3820685,,https://mengelers.mitsubishi-motors.nl/,Sales/Service,1
+148,Mitsubishi,Autogroep Ursem Barten Alkmaar ,52.642778,4.779167,"RobbenKoog 5, 1822 BA",RobbenKoog 5,,1822 BA,,NL,072-3030084,alkmaar@ursembarten.nl,https://ursembarten.mitsubishi-motors.nl/,Sales/Service,1
+5269,Mitsubishi,Auto Sturm Spijkenisse,51.849727,4.307461,"Pascalweg 2, 3208 KL",Pascalweg 2,,3208 KL,,NL,0181-782000,verkoopspijkenisse@autosturm.nl,https://www.autosturm.nl/mitsubishi-motors/,Sales/Service,1
+149,Mitsubishi,Autogroep Ursem Barten Zwaag,52.670556,5.058611,"De Compagnie 52, 1689 AG",De Compagnie 52,,1689 AG,,NL,0229-249394,info@ursembarten.nl,https://ursembarten.mitsubishi-motors.nl/,Sales/Service,1
+150,Mitsubishi,Autogroep Ursem Barten Purmerend,52.517933,4.999637,"Binnenzeestraat 1, 1446 AB",Binnenzeestraat 1,,1446 AB,,NL,0299-667332,purmerend@ursembarten.nl,https://ursembarten.mitsubishi-motors.nl/,Sales/Service,1
+5270,Mitsubishi,Bochane Ede,52.033675,5.621233,"Galvanistraat 111, 6761 AE",Galvanistraat 111,,6761 AE,,NL,0318-201395,,https://bochane.mitsubishi-motors.nl/,Sales/Service,1
+151,Mitsubishi,Autogroep Ursem Barten Schagen,52.78,4.813333,"Witte Paal 321, 1742 LD",Witte Paal 321,,1742 LD,,NL,0224-214204,schagen@ursembarten.nl,https://ursembarten.mitsubishi-motors.nl/,Sales/Service,1
+1688,Mitsubishi,Zeeuw en Zeeuw Leiderdorp,52.165,4.521389,"Touwbaan 5, 2352 CZ",Touwbaan 5,,2352 CZ,,NL,071-5410141,,https://zeeuwenzeeuw.mitsubishi-motors.nl/,Sales/Service,1
+155,Mitsubishi,Autobedrijf van Leijden B.V.,52.1475,4.649722,"Koperweg 1, 2401 LH",Koperweg 1,,2401 LH,,NL,0172-440366,info@vanleijden.nl,https://vanleijden.mitsubishi-motors.nl/,Sales/Service,1
+1693,Mitsubishi,Autogroep Ursem Barten Amsterdam-Noord,52.41246,4.87955,"Netwerkweg 51, 1033 MV",Netwerkweg 51,,1033 MV,,NL,020-6332111,zaandam@ursembarten.nl,https://ursembarten.mitsubishi-motors.nl/,Sales/Service,1
+157,Mitsubishi,Autobedrijf van Veldhuizen Zuidlaren,53.088056,6.663056,"Verlengde Stationsweg 28, 9471 PL",Verlengde Stationsweg 28,,9471 PL,,NL,050-5471111,info@vanveldhuizen.nl,https://vanveldhuizen.mitsubishi-motors.nl/,Sales/Service,1
+158,Mitsubishi,Autobedrijf Van Zessen,51.97,5.048056,"Ambachtsweg 6, 4128 LC",Ambachtsweg 6,,4128 LC,,NL,0347-358000,info@zessen.nl,https://stekelenburgvanzessen.mitsubishi-motors.nl/,Sales/Service,1
+4255,Mitsubishi,Zeeuw & Zeeuw Wateringen,52.013625,4.282112,"'s-Gravenzandseweg 14, 2291 PE",'s-Gravenzandseweg 14,,2291 PE,,NL,0174-638060,,https://zeeuwenzeeuw.mitsubishi-motors.nl/,Sales/Service,1
+5281,Mitsubishi,Stekelenburg Van Zessen,52.029444,5.104167,"Parkerbaan 5, 3439 MC",Parkerbaan 5,,3439 MC,,NL,030-6037050,info@autostekelenburg.nl,https://stekelenburgvanzessen.mitsubishi-motors.nl/,Sales/Service,1
+161,Mitsubishi,Autobedrijf Korsuize & Van Wouwe,52.291667,4.680278,"Jadelaan 157, 2132 XZ",Jadelaan 157,,2132 XZ,,NL,023-5620974,info@korsuizevanwouwe.nl,https://korsuizevanwouwe.mitsubishi-motors.nl/,Sales/Service,1
+162,Mitsubishi,Autobedrijf Wilmink Almelo B.V.,52.332222,6.651389,"Twentelaan 21, 7609 RE",Twentelaan 21,,7609 RE,,NL,0546-850001,almelo@benniewilmink.nl,https://benniewilmink.mitsubishi-motors.nl/,Sales/Service,1
+163,Mitsubishi,Autobedrijf Wilmink Enschede B.V.,52.218611,6.870278,"Westerval 16, 7545 MZ",Westerval 16,,7545 MZ,,NL,053-4304630,enschede@benniewilmink.nl,https://benniewilmink.mitsubishi-motors.nl/,Sales/Service,1
+165,Mitsubishi,Autohuis de Nijverheid B.V.,52.699444,5.7575,"Tinweg 2, 8304 BP",Tinweg 2,,8304 BP,,NL,0527-614150,info@autohuisdenijverheid.nl,https://denijverheid.mitsubishi-motors.nl/,Sales/Service,1
+1317,Mitsubishi,Automobielbedrijf Moret B.V.,51.306389,3.85,"Handelspoort 6, 4538 BN",Handelspoort 6,,4538 BN,,NL,0115-649000,,https://automoret.mitsubishi-motors.nl/,Sales/Service,1
+4520,Mitsubishi,Zeeuw & Zeeuw Utrecht,52.121944,5.044444,"Sterrebaan 18, 3542 DK",Sterrebaan 18,,3542 DK,,NL,030-2387930,,https://zeeuwenzeeuw.mitsubishi-motors.nl/,Sales/Service,1
+4648,Mitsubishi,Mengelers International BV,50.903056,5.946389,"Breukerweg 174, 6412 ZL",Breukerweg 174,,6412 ZL,,NL,045-5218811,info.mitsubishi.heerlen@mengelers.nl,https://mengelers.mitsubishi-motors.nl,Sales/Service,1
+4523,Mitsubishi,Herwers Aalten,51.92789,6.56489,"De Driehoek 1, 7122 TL",De Driehoek 1,,7122 TL,,NL,0543-472443,aalten@herwers.nl,https://www.herwers.nl/mitsubishi-motors/,Sales/Service,1
+171,Mitsubishi,Bennie Wilmink Hengelo,52.280833,6.777222,"Holtersweg 49, 7556 BS",Holtersweg 49,,7556 BS,,NL,074-2663363,hengelo@benniewilmink.nl,https://benniewilmink.mitsubishi-motors.nl/,Sales/Service,1
+4652,Mitsubishi,Bochane Tilburg,51.569167,5.113056,"Kapt. Hatterasstraat 11, 5015 BB",Kapt. Hatterasstraat 11,,5015 BB,,NL,013-5443330,tilburg@bochane.nl,https://bochane.mitsubishi-motors.nl/,Sales/Service,1
+4653,Mitsubishi,Terwolde Assen,53.0112,6.5775,"Zeilmakerstraat 22, 9403 VA",Zeilmakerstraat 22,,9403 VA,,NL,0592-343777,,https://terwolde.mitsubishi-motors.nl,Sales/Service,1
+177,Mitsubishi,Autobedrijf Ursem Barten Amstelveen,52.281944,4.838056,"Pletterij 2, 1185 ZK",Pletterij 2,,1185 ZK,,NL,020-6433733,,https://ursembarten.mitsubishi-motors.nl/,Sales/Service,1
+179,Mitsubishi,Herwers Arnhem,51.961944,5.896944,"Hazenkamp 15, 6836 BA",Hazenkamp 15,,6836 BA,,NL,026-7600242,arnhem@herwers.nl,https://www.herwers.nl/mitsubishi-motors/,Sales/Service,1
+4536,Mitsubishi,Zeeuw & Zeeuw Woerden,52.08526,4.85786,"Wagenmakersweg 1, 3449 HV",Wagenmakersweg 1,,3449 HV,,NL,0348-481490,,https://zeeuwenzeeuw.mitsubishi-motors.nl/,Sales/Service,1
+4537,Mitsubishi,Autogroep Ursem Barten Amsterdam,52.390893,4.79699,"Sierenborch 20, 1046 CJ",Sierenborch 20,,1046 CJ,,NL,020-4114748,info@ursembarten.nl,https://ursembarten.mitsubishi-motors.nl/,Sales/Service,1
+4667,Mitsubishi,Bochane Eindhoven,51.4813,5.45869,"Pietersbergweg 27, 5628 BS",Pietersbergweg 27,,5628 BS,,NL,040-3113535,eindhoven@bochane.nl,https://bochane.mitsubishi-motors.nl/,Sales/Service,1
+3773,Mitsubishi,Herwers Tiel,51.912935,5.426141,"Stephensonstraat 21, 4004 JA",Stephensonstraat 21,,4004 JA,,NL,0344-630500,tiel@herwers.nl,https://www.herwers.nl/mitsubishi-motors/,Sales/Service,1
+190,Mitsubishi,Tramper Goes B.V.,51.486667,3.878056,"Pearyweg 2, 4462 GT",Pearyweg 2,,4462 GT,,NL,0113-230768,,https://trampergoes.mitsubishi-motors.nl/,Sales/Service,1
+4674,Mitsubishi,Bochane 'S-Hertogenbosch,51.70555,5.33037,"Sigarenmakerstraat 1, 5232 BJ",Sigarenmakerstraat 1,,5232 BJ,,NL,073-2082500,denbosch@bochane.nl,https://bochane.mitsubishi-motors.nl/,Sales/Service,1
+5315,Mitsubishi,Terwolde Zwolle,52.495034,6.123859,"Nikolaus Ottostraat 7, 8013 NG",Nikolaus Ottostraat 7,,8013 NG,,NL,038-4674540,,https://terwolde.mitsubishi-motors.nl,Sales/Service,1
+4675,Mitsubishi,Bochane Nijmegen,51.81508,5.82063,"Winkelsteegseweg 150, 6534 AR",Winkelsteegseweg 150,,6534 AR,,NL,024-3591340,bochane-nijmegen@bochanegroep.nl,https://bochane.mitsubishi-motors.nl/,Sales/Service,1
+3275,Mitsubishi,Zeeuw & Zeeuw Zoetermeer,52.05911,4.50874,"Van Aalstlaan 10, 2718 SZ",Van Aalstlaan 10,,2718 SZ,,NL,079-7505025,,https://zeeuwenzeeuw.mitsubishi-motors.nl/,Sales/Service,1
+5195,Mitsubishi,ABD Heerenveen,52.96638,5.90099,"Skrynmakker 26, 8447 GH",Skrynmakker 26,,8447 GH,,NL,0513-226116,,https://abd.mitsubishi-motors.nl/,Sales/Service,1
+5197,Mitsubishi,Stam Boonstoppel Waddinxveen,52.026111,4.659444,"Zuidelijke Rondweg 3, 2741 RA",Zuidelijke Rondweg 3,,2741 RA,,NL,0182-622133,contactmitsubishi@stam.nl,https://stam.mitsubishi-motors.nl/,Sales/Service,1
+3292,Mitsubishi,Herwers Apeldoorn,52.238522,5.982929,"Laan van de Dierenriem 29, 7324 AB",Laan van de Dierenriem 29,,7324 AB,,NL,055-3696212,apeldoorn@herwers.nl,https://www.herwers.nl/mitsubishi-motors/,Sales/Service,1
+4575,Mitsubishi,Terwolde Emmen,52.755,6.934,"Phileas Foggstraat 39, 7825 AK",Phileas Foggstraat 39,,7825 AK,,NL,0591-669090,info@terwolde.nl,https://terwolde.mitsubishi-motors.nl,Sales/Service,1
+3297,Mitsubishi,Autogroep Ursem Barten Heemskerk,52.503716,4.656762,"Rijksstraatweg 32, 1964 LJ",Rijksstraatweg 32,,1964 LJ,,NL,0251-234350,,https://ursembarten.mitsubishi-motors.nl/,Sales/Service,1
+4965,Mitsubishi,Auto Sturm Breda,51.599772,4.75536,"Spinveld 29, 4815 HR",Spinveld 29,,4815 HR,,NL,076-2300140,,https://www.autosturm.nl/mitsubishi-motors/,Sales/Service,1
+4583,Mitsubishi,Mengelers International BV,51.209442,6.016376,"Jacob Romenweg 6, 6042 EZ",Jacob Romenweg 6,,6042 EZ,,NL,0475-346565,receptie.mitsubishi.roermond@mengelers.nl,https://mengelers.mitsubishi-motors.nl,Sales/Service,1
+4968,Mitsubishi,Auto Sturm Roosendaal,51.55949,4.466031,"Belder 35, 4704 RK",Belder 35,,4704 RK,,NL,0165-573777,,https://www.autosturm.nl/mitsubishi-motors/,Sales/Service,1
+4597,Mitsubishi,Automobielbedrijf Moret B.V.,51.453585,3.58,"Mercuriusweg 29, 4382 NC",Mercuriusweg 29,,4382 NC,,NL,0118-419051,,https://automoret.mitsubishi-motors.nl/,Sales/Service,1
+4598,Mitsubishi,Terwolde Groningen,53.219,6.615,"Osloweg 147, 9723 BK",Osloweg 147,,9723 BK,,NL,050-5445711,info@terwolde.nl,https://terwolde.mitsubishi-motors.nl,Sales/Service,1
+118,Mitsubishi,Auto Dijksman Katwijk B.V.,52.200278,4.433611,"Lageweg 21, 2222 AG",Lageweg 21,,2222 AG,,NL,071-4090050,welkom@autodijksman.nl,https://autodijksman.mitsubishi-motors.nl/,Sales/Service,1
+4988,Mitsubishi,ABD Leeuwarden,53.212414,5.813088,"Hortensiastraat 2, 8922 HD",Hortensiastraat 2,,8922 HD,,NL,058-7600090,verkoop-leeuwarden@abdmitsubishi.nl,https://abd.mitsubishi-motors.nl/,Sales/Service,1
+5247,Mitsubishi,Stam Hilversum,52.20968,5.16249,"Bosdrift 140A, 1215 AP",Bosdrift 140A,,1215 AP,,NL,035-5288346,,https://stam.mitsubishi-motors.nl/,Sales/Service,1

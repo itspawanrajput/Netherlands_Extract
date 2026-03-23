@@ -1,0 +1,76 @@
+dealer_id,brand,name,latitude,longitude,full_address,address_line_1,address_line_2,postal_code,city,country_code,phone,email,website,products,products_count
+68,Suzuki,Suzuki Breda,51.598653000,4.742477000,"Huifakkerstraat 5, 4815 PN BREDA",Huifakkerstraat 5,,4815 PN,BREDA,NL,+31765714292,suzuki.breda@louwman.nl,,Sales & Service,2
+39,Suzuki,Jonker Suzuki Zaanstad,52.432321000,4.820479000,"Oud Zaenden 12, 1506 PE ZAANDAM",Oud Zaenden 12,,1506 PE,ZAANDAM,NL,+31756123885,verkoop@suzukizaanstad.nl,,Sales & Service,2
+293,Suzuki,Oostendorp Suzuki Den Bosch,51.703720000,5.326400000,"Hervensebaan 11, 5232 JL 'S-HERTOGENBOSCH",Hervensebaan 11,,5232 JL,'S-HERTOGENBOSCH,NL,+31735233815,online@suzuki-denbosch.nl,,Sales & Service,2
+87,Suzuki,Automobielbedrijf Klok & Thissen,52.502483000,4.655258000,"Rijksstraatweg 19, 1969 LB HEEMSKERK",Rijksstraatweg 19,,1969 LB,HEEMSKERK,NL,+31251252122,info@klokenthissen.nl,,Sales & Service,2
+70,Suzuki,Autobedrijf R. Verstegen BV.,51.656108000,5.629382000,"Loopkantstraat 12, 5405 NB UDEN",Loopkantstraat 12,,5405 NB,UDEN,NL,+31413250444,verkoop@autoverstegen.nl,,Sales & Service,2
+37,Suzuki,Auto Berkelaar Mijdrecht,52.207203000,4.876357000,"Genieweg 50, 3641 RH MIJDRECHT",Genieweg 50,,3641 RH,MIJDRECHT,NL,+31297272381,verkoopsuzuki@berkelaar.nl,,Sales & Service,2
+35,Suzuki,Kreijne Hilversum B.V.,52.212709000,5.146033000,"Franciscusweg 355, 1216 SM HILVERSUM",Franciscusweg 355,,1216 SM,HILVERSUM,NL,+31356243944,verkoophilversum@kreijne.nl,,Sales & Service,2
+58,Suzuki,RiBo Gorinchem B.V.,51.834564000,4.970250000,"Stationsweg 21, 4205 AA GORINCHEM",Stationsweg 21,,4205 AA,GORINCHEM,NL,+31183627999,info@ribogorinchem.nl,,Sales & Service,2
+360,Suzuki,Mengelers Suzuki Heerlen,50.903612000,5.946700000,"Breukerweg 174, 6412 ZL HEERLEN",Breukerweg 174,,6412 ZL,HEERLEN,NL,+31455218811,verkoop.suzuki.heerlen@mengelers.nl,,Sales & Service,2
+307,Suzuki,Luykx Heemstede B.V.,52.344560000,4.628913000,"Cruquiusweg 29-A, 2102 LS HEEMSTEDE",Cruquiusweg 29-A,,2102 LS,HEEMSTEDE,NL,+31235285950,verkoop@autoluykx.nl,,Sales & Service,2
+376,Suzuki,Zeeuw & Zeeuw Suzuki Gouda,52.006450000,4.687699000,"Edisonstraat 2, 2809 PB GOUDA",Edisonstraat 2,,2809 PB,GOUDA,NL,,verkoop.suzuki-gouda@zeeuwenzeeuw.nl,,Sales & Service,2
+59,Suzuki,Reno Dordrecht B.V.,51.801030000,4.646845000,"Nijverheidstraat 65, 3316 AP DORDRECHT",Nijverheidstraat 65,,3316 AP,DORDRECHT,NL,+31786139244,m.dewilt@renoauto.nl,,Sales & Service,2
+40,Suzuki,Auto Jonker Hoorn,52.667832000,5.061008000,"De Compagnie 2, 1689 AG ZWAAG",De Compagnie 2,,1689 AG,ZWAAG,NL,+31229230434,verkoop@suzukihoorn.nl,,Sales & Service,2
+352,Suzuki,Autobedrijf Wilmink Almelo BV,52.332192000,6.651611000,"Twentelaan 21, 7609 RE ALMELO",Twentelaan 21,,7609 RE,ALMELO,NL,+31546850001,verkoopalmelo@benniewilmink.nl,,Sales & Service,2
+56,Suzuki,Reno Autoservice B.V.,51.829576000,4.771685000,"Lelystraat 24, 3364 AJ SLIEDRECHT",Lelystraat 24,,3364 AJ,SLIEDRECHT,NL,+31184411662,j.vanhouwelingen@renoauto.nl,,Sales & Service,2
+18,Suzuki,Auto Versteeg Buurman Deventer B.V.,52.245835000,6.199162000,"Revalstraat 2, 7418 BJ DEVENTER",Revalstraat 2,,7418 BJ,DEVENTER,NL,+31570624466,verkoopdeventer@versteegbuurman.com,,Sales & Service,2
+354,Suzuki,Zeeuw & Zeeuw Suzuki Utrecht,52.074623000,5.045859000,"Landzigt 12, 3454 PE DE MEERN",Landzigt 12,,3454 PE,DE MEERN,NL,+31302619580,verkoop.suzuki-utrecht@zeeuwenzeeuw.nl,,Sales & Service,2
+291,Suzuki,Autobedrijf Arnold de Rijk B.V.,51.544160000,4.499770000,"Keulsveld 15, 4705 RS ROOSENDAAL",Keulsveld 15,,4705 RS,ROOSENDAAL,NL,+31165561456,info@arnoldderijk.nl,,Sales & Service,2
+1,Suzuki,Autobedrijf Doornbos B.V.,53.335040000,6.903780000,"Europaweg 36, 9931 AA DELFZIJL",Europaweg 36,,9931 AA,DELFZIJL,NL,+31596615253,info@autobedrijfdoornbos.nl,,Sales & Service,2
+20,Suzuki,Autobedrijf Winkelhorst,51.928737000,6.572244000,"Hogestraat 91, 7122 BT AALTEN",Hogestraat 91,,7122 BT,AALTEN,NL,+31543472873,martien@suzuki-winkelhorst.nl,,Sales & Service,2
+374,Suzuki,Autobedrijf Kreijne Almere,52.400645000,5.262454000,"Zandzuigerstraat 6, 1333 HD ALMERE",Zandzuigerstraat 6,,1333 HD,ALMERE,NL,+31365494249,verkoopalmere@kreijne.nl,,Sales & Service,2
+375,Suzuki,Autobedrijf Kreijne Zwolle,52.524446000,6.122700000,"Molenland 3, 8024 AL ZWOLLE",Molenland 3,,8024 AL,ZWOLLE,NL,+31384280300,Verkoopalmere@kreijne.nl,,Sales & Service,2
+53,Suzuki,Autobedrijf Kees Balvert B.V.,52.026555000,4.182189000,"Molenweg 4, 2681 RE MONSTER",Molenweg 4,A,2681 RE,MONSTER,NL,+31174247204,hans@suzukikeesbalvert.nl,,Sales & Service,2
+21,Suzuki,Auto Service Eefde,52.175552000,6.222310000,"Zutphenseweg 73, 7211 EB EEFDE",Zutphenseweg 73,,7211 EB,EEFDE,NL,+31575540317,verkoop@AutoServiceEefde.nl,,Sales & Service,2
+296,Suzuki,Oostendorp Suzuki Nijmegen,51.816390000,5.820600000,"Hulzenseweg 22, 6534 AN NIJMEGEN",Hulzenseweg 22,,6534 AN,NIJMEGEN,NL,+31243590500,online@oostendorp-suzuki.nl,,Sales & Service,2
+364,Suzuki,Mengelers Suzuki Venlo,51.377747000,6.162956000,"Rudolf Dieselweg 28, 5928 RA VENLO",Rudolf Dieselweg 28,,5928 RA,VENLO,NL,+31773820685,verkoopsuzukivenlo@mengelers.nl,,Sales & Service,2
+305,Suzuki,Suzuki Rotterdam,51.871195000,4.553371000,"Schaapherderhof 3, 2988 CP RIDDERKERK",Schaapherderhof 3,,2988 CP,RIDDERKERK,NL,+31103122237,suzuki.rotterdam@louwman.nl,,Sales & Service,2
+47,Suzuki,Suzuki Leiden,52.149315000,4.522535000,"Hoge Rijndijk 328, 2314 AN LEIDEN",Hoge Rijndijk 328,,2314 AN,LEIDEN,NL,,k.schuurhuis@suzukileiden.nl,,Sales & Service,2
+27,Suzuki,Auto Versteeg Buurman Barneveld,52.140958000,5.590561000,"Van Zuylen van Nieveltlaan 77, 3771 AB BARNEVELD",Van Zuylen van Nieveltlaan 77,,3771 AB,BARNEVELD,NL,+31342491091,verkoopbarneveldcentrum@versteegbuurman.com,,Sales & Service,2
+365,Suzuki,Mengelers Suzuki Roermond,51.209444000,6.016297000,"Jacob Romenweg 6, 6042 EZ ROERMOND",Jacob Romenweg 6,,6042 EZ,ROERMOND,NL,+31475346565,verkoopsuzukiroermond@mengelers.nl,,Sales & Service,2
+363,Suzuki,Automobielbedrijf Moret B.V.,51.453601000,3.584246000,"Mercuriusweg 29, 4382 NC VLISSINGEN",Mercuriusweg 29,,4382 NC,VLISSINGEN,NL,+31118419051,info@automoret.nl,,Sales & Service,2
+24,Suzuki,Autobedrijf van Rennes B.V.,51.928289000,6.102170000,"Hengelder 11, 6902 PA ZEVENAAR",Hengelder 11,,6902 PA,ZEVENAAR,NL,,verkoop@rennes-zevenaar.nl,,Sales & Service,2
+93,Suzuki,Autobedr. van der Linde Emmeloord,52.685210000,5.740850000,"Tinweg 10, 8304 BP EMMELOORD",Tinweg 10,,8304 BP,EMMELOORD,NL,+31527614204,verkoop@vanderlinde-emmeloord.nl,,Sales & Service,2
+49,Suzuki,Van Schaik-Schoonhoven B.V.,51.949157000,4.866995000,"Broeikweg 33, 2871 RM SCHOONHOVEN",Broeikweg 33,,2871 RM,SCHOONHOVEN,NL,+31182382546,verkoop@schaik.nl,,Sales & Service,2
+36,Suzuki,Auto Berkelaar Suzuki,52.281071000,4.837976000,"Bouwerij 75, 1185 XW AMSTELVEEN",Bouwerij 75,,1185 XW,AMSTELVEEN,NL,+31206401199,info@autoberkelaar.nl,,Sales & Service,2
+46,Suzuki,Auto Bakker B.V.,52.225240000,4.532938000,"Industriekade 16, 2172 HV SASSENHEIM",Industriekade 16,A,2172 HV,SASSENHEIM,NL,+31252224224,bart@autobakker.nl,,Sales & Service,2
+9,Suzuki,Autobedrijf van Veen B.V.,52.995032000,6.534423000,"Zendmastweg 4, 9405 CE ASSEN",Zendmastweg 4,,9405 CE,ASSEN,NL,+31592333013,verkoop@autovanveen.nl,,Sales & Service,2
+86,Suzuki,Garagebedrijf Korterink B.V.,52.594863000,6.193694000,"Oude Rijksweg 510, 7954 GG ROUVEEN",Oude Rijksweg 510,,7954 GG,ROUVEEN,NL,+31522291346,verkooprouveen@korterinkautos.nl,,Sales & Service,2
+310,Suzuki,Oostendorp Suzuki Eindhoven,51.481406900,5.457732200,"Pietersbergweg 31, 5628 BS EINDHOVEN",Pietersbergweg 31,,5628 BS,EINDHOVEN,NL,+31403112222,online.eindhoven@oostendorp-auto.nl,,Sales & Service,2
+29,Suzuki,AJO B.V.,51.897270000,5.446465000,"Lutterveldweg 2, 4005 LD TIEL",Lutterveldweg 2,,4005 LD,TIEL,NL,+31344619153,info@ajo.nl,,Sales & Service,2
+41,Suzuki,Suzuki Purmerend,52.519379000,4.996786000,"Binnenzeestraat 9, 1446 AB PURMEREND",Binnenzeestraat 9,,1446 AB,PURMEREND,NL,+31299480048,suzuki.purmerend@louwman.nl,,Sales & Service,2
+361,Suzuki,ADG Veendam BV,53.105309000,6.890388000,"Lloydsweg 33, 9641 KJ VEENDAM",Lloydsweg 33,,9641 KJ,VEENDAM,NL,+31598750608,verkoopveendam@adggroep.nl,,Sales & Service,2
+4,Suzuki,Haaima B.V.,53.182089000,5.526315000,"Edisonstraat 1, 8801 PN FRANEKER",Edisonstraat 1,,8801 PN,FRANEKER,NL,+31517384444,klantencontact@suzukifraneker.nl,,Sales & Service,2
+294,Suzuki,Strikwerda Suzuki Leeuwarden,53.198929000,5.849730000,"Mercuriusweg 1, 8938 AR LEEUWARDEN",Mercuriusweg 1,,8938 AR,LEEUWARDEN,NL,+31587271106,suzuki@strikwerda.nl,,Sales & Service,2
+91,Suzuki,Autobedrijf G.H.V. b.v.,51.528200000,6.007520000,"Stationsweg 183, 5807 AA OOSTRUM LB",Stationsweg 183,,5807 AA,OOSTRUM LB,NL,+31478581154,info@autobedrijfghv.nl,https://www.autobedrijfghv.nl,Sales & Service,2
+54,Suzuki,VARI Vlaardingen,51.918041000,4.334850000,"Hoogstad 151, 3131 KX VLAARDINGEN",Hoogstad 151,,3131 KX,VLAARDINGEN,NL,+31102322522,verkoopvlaardingen@vari.nl,,Sales & Service,2
+16,Suzuki,Wilmink Enschede B.V.,52.218781000,6.870711000,"Westerval 16, 7545 MZ ENSCHEDE",Westerval 16,,7545 MZ,ENSCHEDE,NL,+31534304630,enschede@benniewilmink.nl,,Sales & Service,2
+15,Suzuki,Autobedrijf Schreurs B.V.,52.318197000,6.503106000,"Nijverdalseweg 138, 7461 AH RIJSSEN",Nijverdalseweg 138,,7461 AH,RIJSSEN,NL,+31548518860,info@autoschreurs.nl,,Sales & Service,2
+343,Suzuki,ADG Hoogeveen BV,52.734537000,6.510751000,"Parmentierstraat 3, 7903 TN HOOGEVEEN",Parmentierstraat 3,,7903 TN,HOOGEVEEN,NL,+31528262458,verkoophoogeveen@adggroep.nl,,Sales & Service,2
+30,Suzuki,Autobedrijf Kreijne,52.184214000,5.374294000,"Zevenhuizerstraat 44, 3828 BE HOOGLAND",Zevenhuizerstraat 44,,3828 BE,HOOGLAND,NL,+31333036003,verkoopamersfoort@kreijne.nl,,Sales & Service,2
+48,Suzuki,Van der Boon-Auto's Alphen B.V.,52.125065000,4.629677000,"Curieweg 3, 2408 BZ ALPHEN AAN DEN RIJN",Curieweg 3,,2408 BZ,ALPHEN AAN DEN RIJN,NL,+31172473215,verkoop.alphen@vdboon.nl,,Sales & Service,2
+57,Suzuki,Blitterswijk V.O.F.,51.921419000,5.117481000,"Dorpsstraat 55, 4145 KB SCHOONREWOERD",Dorpsstraat 55,,4145 KB,SCHOONREWOERD,NL,+31345641263,receptie@blitterswijksuzuki.nl,,Sales & Service,2
+350,Suzuki,Cito Autobedrijf B.V.,51.962435000,4.586924000,"Klaverbaan 62, 2908 KD CAPELLE AAN DEN IJSSEL",Klaverbaan 62,,2908 KD,CAPELLE AAN DEN IJSSEL,NL,+31104662536,verkoop@citoautobedrijf.nl,,Sales & Service,2
+80,Suzuki,VDNS Oostendorp B.V.,51.456683000,5.692629000,"Varenschut 21, 5705 DK HELMOND",Varenschut 21,D,5705 DK,HELMOND,NL,+31492588975,verkoop@VDNS-Suzuki.nl,,Sales & Service,2
+309,Suzuki,Autobedrijf Winters B.V.,51.339481354,5.466100000,"Dragonder 25, 5554 GM VALKENSWAARD",Dragonder 25,,5554 GM,VALKENSWAARD,NL,+31402045678,info@autowinters.nl,,Sales & Service,2
+26,Suzuki,Auto Versteeg Buurman Ermelo B.V.,52.319168000,5.624494000,"Harderwijkerweg 154, 3852 AH ERMELO",Harderwijkerweg 154,,3852 AH,ERMELO,NL,+31341561000,verkoopermelo@versteegbuurman.com,,Sales & Service,2
+351,Suzuki,Mengelers Suzuki Maastricht,50.829487000,5.713225000,"Molensingel 5, 6229 PB MAASTRICHT",Molensingel 5,,6229 PB,MAASTRICHT,NL,+31433616900,Info.Maastricht@mengelers.nl,,Sales & Service,2
+44,Suzuki,Autobedrijf J&S,52.940541000,4.778181000,"Ambachtsweg 4, 1785 AJ DEN HELDER",Ambachtsweg 4,,1785 AJ,DEN HELDER,NL,,info@autobedrijfjens.nl,,Sales & Service,2
+7,Suzuki,Van Boven Emmen B.V.,52.770564000,6.922497000,"Phileas Foggstraat 10, 7821 AK EMMEN",Phileas Foggstraat 10,,7821 AK,EMMEN,NL,+31591618128,info@van-boven.nl,,Sales & Service,2
+45,Suzuki,Autoplaza Botman,52.644950000,4.783228000,"Berenkoog 20, 1822 BJ ALKMAAR",Berenkoog 20,,1822 BJ,ALKMAAR,NL,+31725675930,info@autoplazagroep.nl,,Sales & Service,2
+2,Suzuki,Automobielbedrijf Fleming B.V.,53.218408000,6.610435000,"Osloweg 141, 9723 BK GRONINGEN",Osloweg 141,,9723 BK,GRONINGEN,NL,+31505426200,c.vandenberg@fleming.nl,,Sales & Service,2
+25,Suzuki,Pijnappel Automobielen BV,52.237509000,5.983252000,"Laan van de Dierenriem 38, 7324 AA APELDOORN",Laan van de Dierenriem 38,,7324 AA,APELDOORN,NL,+31553664400,receptie@pijnappel.nl,,Sales & Service,2
+52,Suzuki,Suzuki Den Haag,52.052696000,4.397187000,"Prinses Alexialaan 36, 2496 XA 'S-GRAVENHAGE",Prinses Alexialaan 36,,2496 XA,'S-GRAVENHAGE,NL,+31703098950,info@suzukidenhaag.nl,,Sales & Service,2
+42,Suzuki,Jacob Schaap Autobedrijven B.V.,52.491375000,5.487561000,"Ketelmeerstraat 130, 8226 JX LELYSTAD",Ketelmeerstraat 130,,8226 JX,LELYSTAD,NL,+31320253053,receptie@jacobschaap.nl,,Sales & Service,2
+353,Suzuki,Oostendorp Suzuki Arnhem,51.947981000,5.881811000,"Hazenkamp 70, 6836 BA ARNHEM",Hazenkamp 70,,6836 BA,ARNHEM,NL,,online.arnhem@oostendorp-autogroep.nl,,Sales & Service,2
+372,Suzuki,Zeeuw & Zeeuw Suzuki Nieuwegein,52.015464000,5.098511000,"Ambachtsweg 2, 3433 PR NIEUWEGEIN",Ambachtsweg 2,,3433 PR,NIEUWEGEIN,NL,+31306034848,info.suzuki-nieuwegein@zeeuwenzeeuw.nl,,Sales & Service,2
+381,Suzuki,Oto Hendriks,51.970102000,6.257865000,"Mercuriusstraat 61, 7006 RK DOETINCHEM",Mercuriusstraat 61,,7006 RK,DOETINCHEM,NL,,info@otohendriks.nl,,Sales & Service,2
+17,Suzuki,Wiegerinck Hengelo BV,52.239820000,6.783325000,"Diamantstraat 38, 7554 TA HENGELO OV",Diamantstraat 38,,7554 TA,HENGELO OV,NL,+31742431135,hengelo@bartwiegerinck.nl,,Sales & Service,2
+366,Suzuki,Suzuki Tilburg,51.587665000,5.067788000,"Kraaivenstraat 10, 5048 AB TILBURG",Kraaivenstraat 10,,5048 AB,TILBURG,NL,+31135959180,suzuki.tilburg@louwman.nl,https://www.louwman.nl,Sales & Service,2
+77,Suzuki,Mengelers Suzuki Sittard,50.995768000,5.841028000,"Bergerweg 73, 6135 KD SITTARD",Bergerweg 73,,6135 KD,SITTARD,NL,+31464521215,info@mengelers.nl,,Sales & Service,2
+31,Suzuki,Autobedrijf H. Kroon Veenendaal B.V.,52.010434000,5.572402000,"Wageningselaan 34, 3903 LA VEENENDAAL",Wageningselaan 34,,3903 LA,VEENENDAAL,NL,+31318528178,verkoop@suzukikroon.nl,,Sales & Service,2
+373,Suzuki,Suzuki Amsterdam West,52.390237000,4.800712000,"Pelerin 1, 1046 CC AMSTERDAM",Pelerin 1,,1046 CC,AMSTERDAM,NL,+31205062212,sales.suzuki.amsterdamwest@louwman.nl,,Sales & Service,2
+64,Suzuki,Automobielbedr.Moret B.V.,51.306392000,3.850172000,"Handelspoort 6, 4538 BN TERNEUZEN",Handelspoort 6,,4538 BN,TERNEUZEN,NL,+31115649000,info@automoret.nl,,Sales & Service,2
+63,Suzuki,Auto Toonder BV,51.483253000,3.958587000,"Biezelingsestraat 50, 4421 BT KAPELLE",Biezelingsestraat 50,,4421 BT,KAPELLE,NL,+31113343631,arjan@autotoonder.nl,,Sales & Service,2
+379,Suzuki,Oostendorp Suzuki Oss,51.755051000,5.559363000,"Longobardenweg 21, 5342 PL OSS",Longobardenweg 21,,5342 PL,OSS,NL,+31412643355,info.oss@oostendorp-autogroep.nl,,Sales & Service,2

@@ -7,7 +7,7 @@ env/
 requirements.txt
 
 # Project specific
-output/
+
 *_test.json
 *_data.json
 *.html
